@@ -61,7 +61,5 @@ jobs:
         run: |
           echo "Add other actions to build,"
           echo "test, and deploy your project."
+---
 
-## 📎 Note
-
-This task was completed independently as part of a practice task from the Datacom Virtual Experience on Forage.
